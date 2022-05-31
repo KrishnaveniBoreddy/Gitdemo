@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-26T18:10:52 IST" name="Default suite" finished-at="2022-05-26T18:11:20 IST" duration-ms="27759">
+    <groups>
+    </groups>
+    <test started-at="2022-05-26T18:10:52 IST" name="Default test" finished-at="2022-05-26T18:11:20 IST" duration-ms="27759">
+      <class name="Stepdefinition.Amazondefinition">
+        <test-method is-config="true" signature="launchapp()[pri:0, instance:Stepdefinition.Amazondefinition@4d154ccd]" started-at="2022-05-26T18:10:52 IST" name="launchapp" finished-at="2022-05-26T18:10:58 IST" duration-ms="6178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="logintoAmazon()[pri:0, instance:Stepdefinition.Amazondefinition@4d154ccd]" started-at="2022-05-26T18:10:58 IST" name="logintoAmazon" finished-at="2022-05-26T18:11:15 IST" duration-ms="16984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoAmazon -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Stepdefinition.Amazondefinition@4d154ccd]" started-at="2022-05-26T18:11:15 IST" name="closeapp" finished-at="2022-05-26T18:11:20 IST" duration-ms="4546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Stepdefinition.Amazondefinition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
